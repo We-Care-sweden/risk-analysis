@@ -4,4 +4,4 @@ This repository includes main source files to compute Environmental impacts.
 
 - [municipality_stat.csv](./municipality_stat.csv) includes risk factors per municipality in greater Stockholm area. 
 
-- [population.csv](population.csv) inlcudes updated number or residents in varuoys cities of Stockholm, obtained from [Statistikdatabasen](http://www.statistikdatabasen.scb.se/pxweb/en/ssd/), and reformatted in our data frame using [`population_to_csv`](population_to_csv.ipynb) script.
+- [population_municipality.csv](population_municipality.csv) and [population_county.csv](population_county.csv) inlcude updated number or residents in various municipalities and counties in Sweden, obtained from [Statistikdatabasen](http://www.statistikdatabasen.scb.se/pxweb/en/ssd/), and reformatted in our data frame using [`population_to_csv`](population_to_csv.ipynb) script.
