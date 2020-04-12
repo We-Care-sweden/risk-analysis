@@ -1,0 +1,22 @@
+region	year	Population
+01 Stockholm county	2019	2377081
+03 Uppsala county	2019	383713
+04 Södermanland county	2019	297540
+05 Östergötland county	2019	465495
+06 Jönköping county	2019	363599
+07 Kronoberg county	2019	201469
+08 Kalmar county	2019	245446
+09 Gotland county	2019	59686
+10 Blekinge county	2019	159606
+12 Skåne county	2019	1377827
+13 Halland county	2019	333848
+14 Västra Götaland county	2019	1725881
+17 Värmland county	2019	282414
+18 Örebro county	2019	304805
+19 Västmanland county	2019	275845
+20 Dalarna county	2019	287966
+21 Gävleborg county	2019	287382
+22 Västernorrland county	2019	245347
+23 Jämtland county	2019	130810
+24 Västerbotten county	2019	271736
+25 Norrbotten county	2019	250093
