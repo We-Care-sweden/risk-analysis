@@ -18,7 +18,7 @@ Environmental Hotspots Development as a measure of environmental risk live map b
     
 ### Tech
 
-WeCare team thanks a number of experts and open source projecs as part of building this solution
+WeCare team thanks a number of experts and open source projects as part of building this solution
 
 * [PyKrige](http:/https://github.com/GeoStat-Framework/PyKrige/blob/master/README.rst/ "PyKrige") - 2D and 3D Ordinary and Universal Kriging
 * [Open Refine](http:/https://openrefine.org/ "Open Refine") - Powerful tool for working with messy data
@@ -33,7 +33,8 @@ WeCare team thanks a number of experts and open source projecs as part of buildi
 * [Statistikdatabasen](http://www.statistikdatabasen.scb.se/pxweb/en/ssd/) - Sweden population and location statistics
 * [Simple Maps](http:/https://simplemaps.com/data/se-citiesd/) - Sweden population and location statistics
 * [Diva GIS](http:/https://www.diva-gis.org/gdata/) - Global GIS Shapefiles 
-* [Covid19 Scenarios](http:/https://covid19-scenarios.org//) - Web application as a planning tool for COVID-19 outbreaks in communities across the world using SIR (Susceptible-Infected-Recovered) model
+* [Covid19 Scenarios](http:/https://covid19-scenarios.org/) - Web application as a planning tool for COVID-19 outbreaks in communities across the world using SIR (Susceptible-Infected-Recovered) model
+* [Golden Software Surfer](https://www.goldensoftware.com/contact-us) - Advanced geospatial modelling tool with license (Many thank you to Golden Software team for offering free, temporary license due to Covid19 WFH)
 
 ### Developing Hotspots
 We were fortunate to have spoken directly towards Skill Mentor **Alise. E (MD, ID, IM specialist / Epidemiology / WGS / IT in healthcare)** that gave us a more thorough and better insights towards developing live mapping of datasets and the use of realtime vs prediction models.
@@ -50,3 +51,11 @@ To best summarise the conversation with Alise here with dotpoints :
     - **How many are in the ICU?**
     - **What are the concentration of hotspots that can be described from data?**
 - Therefore, continuing development towards the use of live datasets with Kriging 2D interpolation model for better live mapping visualisation is used in this section of our project.
+
+### Data interrogation with free temporary licensed Surfer software
+
+We originally interrogated the current dataset with Golden Software Surfer to understand the capabilities of developing live mapping through Covid19 Sweden dataset. The preliminary snapshot of number of fatalities, infected and in intensive care data were taken on the week of 14th to 25th April 2020. Kriging model from this software was used to form a first interpretation of the geospatial map we would like to implement in the app. 
+
+![EuVsVirus](./documentation/images/Surfer%20Models/Surfer_Death_Covid19.png)
+![EuVsVirus](./documentation/images/Surfer%20Models/Surfer_Infected_Covid19.png)
+![EuVsVirus](./documentation/images/Surfer%20Models/Surfer_Intensive_care_Covid19.png)
