@@ -33,7 +33,6 @@ WeCare team thanks a number of experts and open source projects as part of build
 * [Simple Maps](http:/https://simplemaps.com/data/se-citiesd/) - Sweden population and location statistics
 * [Diva GIS](http:/https://www.diva-gis.org/gdata/) - Global GIS Shapefiles 
 * [Covid19 Scenarios](http:/https://covid19-scenarios.org/) - Web application as a planning tool for COVID-19 outbreaks in communities across the world using SIR (Susceptible-Infected-Recovered) model
-* [Golden Software Surfer](https://www.goldensoftware.com/contact-us) - Advanced geospatial modelling tool with license (Many thank you to Golden Software team for offering free, temporary license due to Covid19 WFH)
 
 ### Developing Hotspots
 We were fortunate to have spoken directly towards Skill Mentor **Alise. E (MD, ID, IM specialist / Epidemiology / WGS / IT in healthcare)** that gave us a more thorough and better insights towards developing live mapping of datasets and the use of realtime vs prediction models.
