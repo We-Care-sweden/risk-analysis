@@ -54,8 +54,4 @@ The number of cases per municipality is our score/value to that point. we have t
 Then, we have $N_{ij} = Nj Pij/Pj$
 
 ```
-
-License
-----
-
-Creative Commons
+![Figure 1](./documentation/images/Surfer_Death_Covid19.png)
