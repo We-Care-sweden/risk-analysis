@@ -7,9 +7,13 @@
 ### Hotspot Development for Live Maps
 Environmental Hotspots Development as a measure of environmental risk live map based on user-input area codes for location is then connected to Covid19 infected datasets and modelled using PyKrige Kriging modelling method. We had also a better clarity towards approaching and defining risk over predictive modelling versus developing hotspots over live datasets as well the importance of taking plenty of care developing models that may have substantial influence public perception towards engaging in risk factors during Covid19 pandemic.
   - **This section contains 3 folders consisting of:**
-    - **Environmental**
+    
+    - **Environmental** 
+        Geocoding of API sourcing live datasets and preliminary development to Kriging 2D interpolation model using live datasets to form live mapping visualisation are included in this folder  
      - **Symptoms**
+        From user input data from our We Care app and desktop interface, this section will, in future, focus on better developing and fine tune hotspot details for live map 
      - **Contacts**
+        From user input data from our We Care app and desktop interface, this section will, in future, focus on better developing and fine tune hotspot details for live map 
     
 ### Tech
 
