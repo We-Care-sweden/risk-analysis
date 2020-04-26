@@ -7,6 +7,7 @@
 
 ### Hotspot Development for Live Maps
 Environmental Hotspots Development as a measure of environmental risk live map based on user-input area codes for location is then connected to Covid19 infected datasets and modelled using PyKrige Kriging modelling method. We had also a better clarity towards approaching and defining risk over predictive modelling versus developing hotspots over live datasets as well the importance of taking plenty of care developing models that may have substantial influence public perception towards engaging in risk factors during Covid19 pandemic.
+
   - **This section contains 3 folders consisting of:**
     
     - **Environmental** 
@@ -33,6 +34,7 @@ WeCare team thanks a number of experts and open source projects as part of build
 * [Simple Maps](http:/https://simplemaps.com/data/se-citiesd/) - Sweden population and location statistics
 * [Diva GIS](http:/https://www.diva-gis.org/gdata/) - Global GIS Shapefiles 
 * [Covid19 Scenarios](http:/https://covid19-scenarios.org/) - Web application as a planning tool for COVID-19 outbreaks in communities across the world using SIR (Susceptible-Infected-Recovered) model
+* [Golden Software Surfer](https://www.goldensoftware.com/contact-us) - Advanced geospatial modelling tool (Trial version)
 
 ### Developing Hotspots
 We were fortunate to have spoken directly towards Skill Mentor **Alise. E (MD, ID, IM specialist / Epidemiology / WGS / IT in healthcare)** that gave us a more thorough and better insights towards developing live mapping of datasets and the use of realtime vs prediction models.
@@ -49,3 +51,10 @@ To best summarise the conversation with Alise here with dotpoints :
     - **How many are in the ICU?**
     - **What are the concentration of hotspots that can be described from data?**
 - Therefore, continuing development towards the use of live datasets with Kriging 2D interpolation model for better live mapping visualisation is used in this section of our project.
+
+
+### Data interrogation
+
+We have preprocessed the data, approximated to Swedish cities based on population data, and then used Kriging to find hotzones, which would be like figure below. The preliminary snapshot of number of fatalities, infected and in intensive care data were taken on the week of 14th to 25th April 2020. Kriging model from this software was used to form a first interpretation of the geospatial map we would like to implement in the app. 
+
+![EuVsVirus](./documentation/images/Surfer%20Models/Kriging_Infected_Covid19.png)
