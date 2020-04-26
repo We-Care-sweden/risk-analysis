@@ -46,10 +46,10 @@ Hotspot geospatial model will reflect the average number of infected per area i.
 ```python
 # The number of cases per municipality is our score/value to that point. we have the official values per county. We approximate per municipality using populations, simply
 
-            Pij = population of municipality i of city j
-            Nij = value of municipality i of city j
-            Pj = population of city j = sum_i Pij
-            Nj = value of city j (number of infected)
+            $P_{ij}$ = population of municipality $i$ of city $j$
+            $N_{ij}$ = value of municipality i of city j$
+            $P_j$ = population of city $j = \sum_i P_{ij}$
+            $N_j$ = value of city $j$ (number of infected)
             
             Nij = Nj*Pij/Pj
 ```
