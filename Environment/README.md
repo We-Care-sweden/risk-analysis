@@ -2,7 +2,7 @@
 `Devpost Submission Link` : https://devpost.com/software/wecare-5l9dgi
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 ![](https://github.com/We-Care-sweden/risk-analysis/issues/3#issue-606941275)
-![EuVsVirus](./risk-analysis/documentation/images/EuVsVirusLogo.jpeg)
+![EuVsVirus](../documentation/images/EuVsVirusLogo.jpeg)
 
 ### EUvsVirus Hackathon
 Environmental Risk and Heatmap Development using PyKrige Kriging modelling method
