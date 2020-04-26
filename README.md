@@ -25,8 +25,7 @@ WeCare team thanks a number of experts and open source projects as part of build
 * [Geo Stats Models](http:/https://github.com/cjohnson318/geostatsmodels/ "Geo Stats Models") - Implementation of ideas from Clayton V. Deutsch and Michael Pyrcz's book Geostatistical Reservoir Modeling
 * [Geostatpy](http:/https://github.com/exepulveda/geostatpy/ "Geostatpy") -  Geostatistical python toolbox.
 * [Institute of Earth Sciences Coders](http:/https://iescoders.com/plotting-the-geospatial-data-clipped-by-coastlines-in-python/ "Institute of Earth Sciences Coders") -  Plotting the geospatial data clipped by coastlines in Python by Utpal Rai
-* [Svenska Städer](http:/https://github.com/sphrak/svenska-stader/ "Svenska Städer") -  Swedish cities in csv format with coordinates 
-* [Svenska Städer](http:/https://github.com/sphrak/svenska-stader/ "Svenska Städer") -  Swedish cities in csv format with coordinates 
+* [Svenska Städer](http:/https://github.com/sphrak/svenska-stader/ "Svenska Städer") -  Swedish cities in csv format with coordinates  
 * [Open Geocoding API](http:/https://developer.mapquest.com/documentation/open/geocoding-api/address/get/ "Open Geocoding API") - Geocoding service enables you to take an address and get the associated latitude and longitude.
 * [Google Maps Platform](http:/https://developers.google.com/maps/documentation/geocoding/intro/ "Open Geocoding API") -  Geocoding API web service
 * [Folkhälsomyndigheten](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa) - Sweden COVID19 dataset
