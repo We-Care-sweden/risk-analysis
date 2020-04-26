@@ -43,16 +43,14 @@ This repository includes main source files to compute Environmental impacts.
 
 ### Hotspot Calculation for z value for Kriging model
 Hotspot geospatial model will reflect the average number of infected per area i.e. per county. Simple linear equation to approximate per municipality using **LON** and **LAT** .csv coded with Kriging model with PyKrige fo fine-grained estimation. Below is the equation to reflect the z values estimation.  
-```python
-# The number of cases per municipality is our score/value to that point. we have the official values per county. We approximate per municipality using populations, simply
 
-            $P_{ij}$ = population of municipality $i$ of city $j$
-            $N_{ij}$ = value of municipality i of city j$
-            $P_j$ = population of city $j = \sum_i P_{ij}$
-            $N_j$ = value of city $j$ (number of infected)
-            
-            Nij = Nj*Pij/Pj
-```
+The number of cases per municipality is our score/value to that point. we have the official values per county. We approximate per municipality using populations. Denote by
+- $P_{ij}$ = population of municipality $i$ of city $j$
+- $N_{ij}$ = value of municipality i of city j$
+- $P_j$ = population of city $j = \sum_i P_{ij}$
+- $N_j$ = value of city $j$ (number of infected)
+
+Then, we have $$N_{ij} = Nj Pij/Pj$$
 
 License
 ----
