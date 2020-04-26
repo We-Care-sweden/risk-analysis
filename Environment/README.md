@@ -2,6 +2,7 @@
 `Devpost Submission Link` : https://devpost.com/software/wecare-5l9dgi
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 ![](https://github.com/We-Care-sweden/risk-analysis/issues/3#issue-606941275)
+![](documentation/images/EuVsVirusLogo.jpeg)
 
 ### EUvsVirus Hackathon
 Environmental Risk and Heatmap Development using PyKrige Kriging modelling method
@@ -54,4 +55,3 @@ The number of cases per municipality is our score/value to that point. we have t
 Then, we have $N_{ij} = Nj Pij/Pj$
 
 ```
-![Figure 1](.risk-analysis/documentation/images/Surfer%20Models/Surfer_Death_Covid19.png)
