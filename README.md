@@ -58,3 +58,4 @@ To best summarise the conversation with Alise here with dotpoints :
 We have preprocessed the data, approximated to Swedish cities based on population data, and then used Kriging to find hotzones, which would be like figure below. The preliminary snapshot of number of fatalities, infected and in intensive care data were taken on the week of 14th to 25th April 2020. Kriging model from this software was used to form a first interpretation of the geospatial map we would like to implement in the app. 
 
 ![EuVsVirus](./documentation/images/Kriging_Infected_Covid19.png)
+This picture has been obtained using free trial of Surfer software
